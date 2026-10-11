@@ -5,4 +5,4 @@ users and machines.
 
 <h3>To configure any shtss, we need to login first in to the **DC** and run **AD Users and Computers**</h3>
 
-<img width="1519" height="679" alt="image" src="https://github.com/user-attachments/assets/ef9e929b-d38d-4341-854a-d3c8df7a6a6b" />
+<img width="1319" height="679" alt="image" src="https://github.com/user-attachments/assets/ef9e929b-d38d-4341-854a-d3c8df7a6a6b" />
