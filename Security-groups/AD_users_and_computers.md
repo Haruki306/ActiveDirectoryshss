@@ -9,7 +9,7 @@ users and machines.
 
 <h3>To configure any shtss, we need to login first in to the **DC** and run **AD Users and Computers**</h3>
 <p align="center">
-  <img width="600" height="350" alt="left-image" src="https://github.com/user-attachments/assets/5809a84a-a4da-4992-95c2-a97caac5ee3c" />
-  <img width="200" height="250" alt="right-image" src="https://github.com/user-attachments/assets/56ace0fd-0d9e-4f2c-9599-95e5f683784c" />
+  <img width="500" height="350" alt="left-image" src="https://github.com/user-attachments/assets/5809a84a-a4da-4992-95c2-a97caac5ee3c" />
+  <img width="300" height="350" alt="right-image" src="https://github.com/user-attachments/assets/56ace0fd-0d9e-4f2c-9599-95e5f683784c" />
 </p>
 notice that there are already containers and organizational units already in there. Containers are default systems folders created automatically when the domain is set up which holds objects like user accounts, etc... **OU** on the other hand are special containers that are used to organize objects logically and can have group policies applied to them.
