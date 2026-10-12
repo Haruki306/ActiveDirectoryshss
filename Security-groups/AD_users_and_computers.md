@@ -13,3 +13,9 @@ users and machines.
   <img width="300" height="350" alt="right-image" src="https://github.com/user-attachments/assets/56ace0fd-0d9e-4f2c-9599-95e5f683784c" />
 </p>
 notice that there are already containers and organizational units already in there. Containers are default systems folders created automatically when the domain is set up which holds objects like user accounts, etc... **OU** on the other hand are special containers that are used to organize objects logically and can have group policies applied to them.
+
+
+**OUs** are handy for applying policies to users and computers however a user can only be part of a single OU at a time, why? because it wouldn't make sense if the user
+has 2 diff sets of policies.
+
+Security Groups are used to grant permissions over resources. E.G. if u want to allow some users to access a shared folder or a printer from a different department.
